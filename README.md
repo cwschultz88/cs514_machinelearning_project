@@ -4,6 +4,6 @@ This repo contains source used for the machine learning project for CS 514 - Spr
 
 The objective of this project is to compete in the Kaggle competition at:
 
-https://www.kaggle.com/c/springleaf-marketing-response
+https://www.kaggle.com/c/santander-customer-satisfaction
 
 This competition is now closed so results are  estimated using 6-folds cross validation.
